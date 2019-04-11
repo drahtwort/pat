@@ -1,6 +1,6 @@
 # Patents
 
-## Emmanuel Goldberg
+## Emanuel Goldberg
 
 - [*Statistical Machine*](https://patents.google.com/patent/US1838389A/) (1928)
     - U.S. Patent 1,838,389, filed April 5, 1928 and issued December 29, 1931
