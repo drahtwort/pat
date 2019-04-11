@@ -1,5 +1,11 @@
 # Patents
 
+
+## Brooks B. Harding
+
+- [Cataloguing Device](https://patents.google.com/patent/US1845410A/) (1927)
+    - U.S. Patent 1,845,410, filed July 26, 1927 and issued February 16, 1932
+
 ## Emanuel Goldberg
 
 - [*Statistical Machine*](https://patents.google.com/patent/US1838389A/) (1928)
